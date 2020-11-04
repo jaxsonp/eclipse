@@ -12,7 +12,7 @@ function setup() {
   
   createCanvas(400, 400)
   pixelDensity(1)
-  frameRate(30)
+  frameRate(60)
 
   cols = floor(width / scl)
   rows = floor(height / scl)
